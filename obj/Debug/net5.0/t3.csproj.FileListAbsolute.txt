@@ -1,0 +1,16 @@
+C:\bianca\t3\bin\Debug\net5.0\t3.exe
+C:\bianca\t3\bin\Debug\net5.0\t3.deps.json
+C:\bianca\t3\bin\Debug\net5.0\t3.runtimeconfig.json
+C:\bianca\t3\bin\Debug\net5.0\t3.runtimeconfig.dev.json
+C:\bianca\t3\bin\Debug\net5.0\t3.dll
+C:\bianca\t3\bin\Debug\net5.0\ref\t3.dll
+C:\bianca\t3\bin\Debug\net5.0\t3.pdb
+C:\bianca\t3\obj\Debug\net5.0\t3.csprojAssemblyReference.cache
+C:\bianca\t3\obj\Debug\net5.0\t3.GeneratedMSBuildEditorConfig.editorconfig
+C:\bianca\t3\obj\Debug\net5.0\t3.AssemblyInfoInputs.cache
+C:\bianca\t3\obj\Debug\net5.0\t3.AssemblyInfo.cs
+C:\bianca\t3\obj\Debug\net5.0\t3.csproj.CoreCompileInputs.cache
+C:\bianca\t3\obj\Debug\net5.0\t3.dll
+C:\bianca\t3\obj\Debug\net5.0\ref\t3.dll
+C:\bianca\t3\obj\Debug\net5.0\t3.pdb
+C:\bianca\t3\obj\Debug\net5.0\t3.genruntimeconfig.cache
